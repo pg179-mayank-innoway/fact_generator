@@ -1,0 +1,9 @@
+body{
+    line-height: 40px;
+}
+.hide{
+    visibility: hidden;
+}
+#display{
+    line-height: 25px;
+}
